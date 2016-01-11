@@ -1,0 +1,9 @@
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\obj\Debug\FormTest1.Form1.resources
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\obj\Debug\FormTest1.Properties.Resources.resources
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\obj\Debug\FormTest1.csproj.GenerateResource.Cache
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\bin\Debug\FormTest1.exe.config
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\bin\Debug\FormTest1.exe
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\bin\Debug\FormTest1.pdb
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\obj\Debug\FormTest1.exe
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\obj\Debug\FormTest1.pdb
+C:\Users\克典\Documents\Visual Studio 2013\Projects\FormTest1\FormTest1\obj\Debug\FormTest1.csprojResolveAssemblyReference.cache
